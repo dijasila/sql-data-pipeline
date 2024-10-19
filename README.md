@@ -1,7 +1,7 @@
 # SQL Data Pipeline
 
 This repository contains a data pipeline for reading, cleaning, integrating, and visualizing SQL database data using Python.
-
+![repository structure](https://github.com/dijasila/sql-data-pipeline/blob/master/IMAGE/resp_struct.PNG)
 ## Directory Structure
 - : Raw SQL database dumps or CSV exports.
 - : Processed data files.
